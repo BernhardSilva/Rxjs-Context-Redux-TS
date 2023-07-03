@@ -3,11 +3,11 @@
 import { createSlice } from '@reduxjs/toolkit';
 
 export interface User {
-    name: string;
-    email: string;
+	name: string;
+	email: string;
 }
 
-export const UserEmptyState = {
+export const UserEmptyState: User = {
 	name: '',
 	email: ''
 };
