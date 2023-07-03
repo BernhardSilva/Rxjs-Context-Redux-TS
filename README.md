@@ -1,6 +1,9 @@
 Project created using Vite.
+
+```
 pnpm i
 pnpm run dev
+```
 
 ------------------------------------------------------------
 Explicación y casos de uso.
