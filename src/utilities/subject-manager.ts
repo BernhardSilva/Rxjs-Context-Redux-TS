@@ -1,5 +1,6 @@
 //Rxjs
 
+//Observable (unicast), Subject(multicast), BehaviorSubject(multicast with cache of the last value)
 import { Subject } from 'rxjs';
 
 export class SubjectManager {
